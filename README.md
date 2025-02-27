@@ -19,4 +19,3 @@ This project showcases a **modern cybersecurity website UI** designed in **Figma
 ## 🎯 Purpose & Vision
 This concept is designed for **cybersecurity firms**, **data protection services**, and **tech startups** looking for a **modern digital presence** that conveys **trust, security, and innovation**.
 
-## 📂 File Structure
